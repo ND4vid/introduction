@@ -1,15 +1,15 @@
-# 👋 Szia, Neuheiser Dávid vagyok
+# Szia, Neuheiser Dávid vagyok
 
-💻 Pályakezdő szoftverfejlesztő vagyok, aki a webfejlesztés és backend rendszerek iránt érdeklődik.
+Pályakezdő szoftverfejlesztő vagyok, aki a webfejlesztés és backend rendszerek iránt érdeklődik.
 
 ## 🚀 Technológiák
 
+* Angular
+* Laravel
 * C#
 * HTML, CSS (Bootstrap)
 * JavaScript
 * MySQL
-* Angular
-* Laravel
 
 ## 📌 Projektek
 
