@@ -1,6 +1,6 @@
 # Szia, Neuheiser Dávid vagyok
 
-Pályakezdő szoftverfejlesztő vagyok, aki a webfejlesztés és backend rendszerek iránt érdeklődik.
+Pályakezdő szoftverfejlesztő vagyok technikumi végzettséggel, aki a webfejlesztés és backend rendszerek iránt érdeklődik.
 
 ## 🚀 Technológiák
 
