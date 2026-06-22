@@ -1,17 +1,25 @@
 # Hey there, I'm Dávid Neuheiser
+Junior Backend / Fullstack Dev
 
-# Junior Backend / Frontend Dev
-
-* Website: [https://neuheiserdavid.webze.eu.org/](https://neuheiserdavid.webze.eu.org/)
+* Website: [Portfolio (Demo)](https://neuheiserdavid.webze.eu.org/)
 
 * Email: [neuheiserdavid@gmail.com](mailto:neuheiserdavid@gmail.com)
 
 
 ## Technologies
 
+* PHP
 * Laravel
 * Angular
 * C#
-* HTML, CSS (Bootstrap)
-* MySQL
+* HTML5
+* CSS3
 * JavaScript
+* MySQL
+* Git
+* REST API Development
+
+
+## Featured projects
+
+
