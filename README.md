@@ -1,24 +1,17 @@
-# Szia, Neuheiser Dávid vagyok
+# Hey there, I'm Dávid Neuheiser
 
-Pályakezdő szoftverfejlesztő vagyok technikumi végzettséggel, aki a webfejlesztés és backend rendszerek iránt érdeklődik.
+# Junior Backend / Frontend Dev
 
-## 🚀 Technológiák
-
-* Angular
-* Laravel
-* C#
-* HTML, CSS (Bootstrap)
-* JavaScript
-* MySQL
-
-## 📌 Projektek
-
-🔹 Vizsgaremek – játékstatisztikai rendszer
-
-* Unity → Laravel API → MySQL → Angular frontend
-* REST API használat
-* adatbázis kezelés
-
-## 📫 Kapcsolat
+* Website: [https://neuheiserdavid.webze.eu.org/](https://neuheiserdavid.webze.eu.org/)
 
 * Email: [neuheiserdavid@gmail.com](mailto:neuheiserdavid@gmail.com)
+
+
+## Technologies
+
+* Laravel
+* Angular
+* C#
+* HTML, CSS (Bootstrap)
+* MySQL
+* JavaScript
