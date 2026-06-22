@@ -1,9 +1,9 @@
 # Hey there, I'm Dávid Neuheiser
-Junior Backend / Fullstack Dev
+## Junior Backend / Fullstack Dev
 
-* Website: [Portfolio (Demo)](https://neuheiserdavid.webze.eu.org/)
+* 🌐 Website: [Portfolio (Demo)](https://neuheiserdavid.webze.eu.org/)
 
-* Email: [neuheiserdavid@gmail.com](mailto:neuheiserdavid@gmail.com)
+* 📧 Email: [neuheiserdavid@gmail.com](mailto:neuheiserdavid@gmail.com)
 
 
 ## Technologies
